@@ -2,7 +2,7 @@
 
 Python / scikit-learn notebooks from UTS 32130 Fundamentals of Data Analytics. They work with a loan applicant dataset and predict whether a borrower pays back the loan (`loan_paid_back`).
 
-## Ass2 — Data exploration & preprocessing
+## 01-data-preprocessing — Exploration & preprocessing
 
 | Notebook | What it does |
 | --- | --- |
@@ -12,7 +12,7 @@ Python / scikit-learn notebooks from UTS 32130 Fundamentals of Data Analytics. T
 | `Ass2_B3_discretise.ipynb` | Discretisation |
 | `Ass2_B4_binarise.ipynb` | Binarisation |
 
-## Ass3 — Classification
+## 02-classification-models — Classification
 
 `Ass3.ipynb` preprocesses the data, then trains and compares three classifiers using 5-fold cross-validation and F1 score:
 
